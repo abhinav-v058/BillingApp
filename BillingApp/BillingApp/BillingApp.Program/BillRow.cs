@@ -5,14 +5,17 @@ using System.Text;
 
 namespace BillingApp
 {
-    public abstract class BillRow : Item
+    public class BillRow : Item
     {
         public int number { get; set; }        
-        public float totalPrice { get; set; }        
+        public float totalPrice { get; set; }
+        public float Tax { get; set; }
+        public bool IsImported { get; set; }
 
-        public BillRow(string n, string tPrice, string iName)
+        public BillRow(string n, string iName, string tPrice)
         {
             base.Name = iName;
+            this.Tax = 0;
             try
             {
                 number = Convert.ToInt16(n);                

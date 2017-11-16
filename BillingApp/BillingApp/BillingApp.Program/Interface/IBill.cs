@@ -4,11 +4,9 @@ using System.Text;
 
 namespace BillingApp.BillingApp.Program
 {
-    public enum ItemTypeEnum
+    interface IBill
     {
-        Book,
-        Food,
-        Medical,
-        Others
+        IList<BillRow> BillData { get; set; }
+        IOutput Generate(IList<string> cashierInput);
     }
 }

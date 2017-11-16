@@ -6,7 +6,7 @@ namespace BillingApp.BillingApp.Program
 {
     class CodingTestBillRow:BillRow
     {                
-        public CodingTestBillRow(string n, string tPrice, string iName) : base(n, tPrice, iName)
+        public CodingTestBillRow(string n, string iName, string tPrice) : base(n, iName, tPrice)
         { }
     }
 }

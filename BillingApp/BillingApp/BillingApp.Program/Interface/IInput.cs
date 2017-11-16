@@ -4,11 +4,8 @@ using System.Text;
 
 namespace BillingApp.BillingApp.Program
 {
-    public enum ItemTypeEnum
+    interface IInput
     {
-        Book,
-        Food,
-        Medical,
-        Others
+        BillRow Interpreter(string row);
     }
 }
