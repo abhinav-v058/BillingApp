@@ -20,6 +20,6 @@ namespace BillingApp
             {
                 return null;
             }
-        }        
+        }
     }
 }
