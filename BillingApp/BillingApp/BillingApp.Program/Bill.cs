@@ -1,4 +1,4 @@
-﻿using BillingApp.BillingApp.Program;
+using BillingApp.BillingApp.Program;
 using System;
 using System.Collections.Generic;
 using System.Linq;
