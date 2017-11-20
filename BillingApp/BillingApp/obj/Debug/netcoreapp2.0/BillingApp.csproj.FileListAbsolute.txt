@@ -2,3 +2,10 @@ C:\Users\Abhin\source\repos\BillingApp\BillingApp\obj\Debug\netcoreapp2.0\Billin
 C:\Users\Abhin\source\repos\BillingApp\BillingApp\obj\Debug\netcoreapp2.0\BillingApp.csproj.CoreCompileInputs.cache
 C:\Users\Abhin\source\repos\BillingApp\BillingApp\obj\Debug\netcoreapp2.0\BillingApp.AssemblyInfoInputs.cache
 C:\Users\Abhin\source\repos\BillingApp\BillingApp\obj\Debug\netcoreapp2.0\BillingApp.AssemblyInfo.cs
+C:\Users\Abhin\source\repos\BillingApp\BillingApp\bin\Debug\netcoreapp2.0\BillingApp.deps.json
+C:\Users\Abhin\source\repos\BillingApp\BillingApp\bin\Debug\netcoreapp2.0\BillingApp.runtimeconfig.json
+C:\Users\Abhin\source\repos\BillingApp\BillingApp\bin\Debug\netcoreapp2.0\BillingApp.runtimeconfig.dev.json
+C:\Users\Abhin\source\repos\BillingApp\BillingApp\bin\Debug\netcoreapp2.0\BillingApp.dll
+C:\Users\Abhin\source\repos\BillingApp\BillingApp\bin\Debug\netcoreapp2.0\BillingApp.pdb
+C:\Users\Abhin\source\repos\BillingApp\BillingApp\obj\Debug\netcoreapp2.0\BillingApp.dll
+C:\Users\Abhin\source\repos\BillingApp\BillingApp\obj\Debug\netcoreapp2.0\BillingApp.pdb

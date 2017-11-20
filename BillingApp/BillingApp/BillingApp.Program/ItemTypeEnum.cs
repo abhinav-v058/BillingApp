@@ -8,6 +8,7 @@ namespace BillingApp.BillingApp.Program
     {
         Book,
         Food,
-        Medical                
+        Medical,
+        Others
     }
 }

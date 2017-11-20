@@ -12,7 +12,7 @@ namespace BillingApp
         public float Tax { get; set; }
         public bool IsImported { get; set; }
 
-        public BillRow(string n, string tPrice, string iName)
+        public BillRow(string n, string iName, string tPrice)
         {
             base.Name = iName;
             this.Tax = 0;
